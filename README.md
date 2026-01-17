@@ -45,6 +45,3 @@ The dashboard focuses on three core event-study metrics:
 - **Git LFS** – large dataset version control
 
 ---
-
-## 📁 Repository Structure
-
